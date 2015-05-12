@@ -1,6 +1,7 @@
 <?php
 	echo "awal project oleh k3513033";
 	echo "edit oleh k3513033";
+	echo "edit teman oleh k3513013";
 ?>
 <?php
 
